@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bedo</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Abdelrahman Hamdi </h1>
+<h3 align="center">A passionate Software Engineer | Flutter developer </h3>
 
 ---
 
@@ -8,7 +8,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" width="50" height="50"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50"/>
 </p>
 
