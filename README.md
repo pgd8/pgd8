@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Engineer | Mobile Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBsN3V3OWhsM2VzYTRyNjRmbXF5N2Jtd3NkcXl5am01bG1iaTV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
 ---
