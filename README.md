@@ -1,64 +1,18 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Abdelrahman Hamdi</h1>
-<h3 align="center">🚀 Software Engineer | Mobile Developer | Tech Enthusiast</h3>
+# 💫 About Me:
+I'm Abdelrahman Hamdi<br><br>Software Engineer | Flutter & React Developer<br><br>I'm a Software Engineer passionate about designing and building complete, scalable, and user-focused software solutions.<br><br>I work across the full application development lifecycle — from UI/UX implementation and frontend development to backend integration, APIs, databases, authentication, and deployment-ready systems.<br><br>My main areas of expertise are Flutter, React, Dart, JavaScript/TypeScript, and modern software engineering practices.<br><br>I enjoy turning ideas into real-world products, whether it's a mobile application, web platform, business management system, dashboard, or complete digital solution.<br><br>🚀 What I Do<br><br>📱 Build cross-platform mobile applications with Flutter<br><br>🌐 Develop modern web applications with React<br><br>⚙️ Build and integrate REST APIs and backend services<br><br>🗄️ Work with databases and data-driven applications<br><br>🔐 Implement authentication and application security<br><br>💳 Integrate payment systems and third-party services<br><br>🔔 Implement push notifications and real-time features<br><br>🗺️ Integrate maps, geolocation, and location-based services<br><br>🏗️ Apply Clean Architecture, SOLID principles, and Design Patterns<br><br>📊 Build admin dashboards and management systems<br><br>🔄 Refactor and improve existing applications<br><br>🧪 Focus on maintainable, scalable, and production-ready code
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBsN3V3OWhsM2VzYTRyNjRmbXF5N2Jtd3NkcXl5am01bG1iaTV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300" alt="Coding GIF">
-</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bedo El-agwany ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pgd8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdelrahman Hamdi) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abdelrahman Hamdi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrahmanhamdi08@gmail.com) 
 
-## 🌟 About Me
-- 💻 Passionate about **mobile development** with **Flutter & Dart**  
-- 🚀 Skilled in **C++**, **Git**, **Java**, **Dart**, and modern dev tools  
-- 🛠️ Experienced with **VS Code** & **Android Studio**  
-- 🌱 Always exploring new technologies to improve my craft  
-- 🎯 Goal: Build impactful applications that solve real-world problems  
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pgd8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pgd8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pgd8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=pgd8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio" width="60" height="60"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="60" height="60"/>
-</p>
-
----
-
-## 🚀 Tech Stack (Badges)
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-## 🤝 Connect with Me
-<p align="center">
-  <a href="https://github.com/pgd8" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdelrahman-hamdi-965767253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abdelrahmanhamdi08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pgd8&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
